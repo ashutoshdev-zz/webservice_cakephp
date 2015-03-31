@@ -1,0 +1,8 @@
+array(3) {
+  ["raduis"]=>
+  string(2) ".1"
+  ["latitude"]=>
+  string(3) "0.0"
+  ["longitude"]=>
+  string(3) "0.0"
+}
